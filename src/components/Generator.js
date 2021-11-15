@@ -10,7 +10,7 @@ const messageStyle = {
         `Em reunião com ${reacionarios()} Ciro dispara contra ${target}: "${conspiracao()} ${message}"`
     ],
     plano: (target, message, plano) => [
-        `O nosso ${plano} vai fazer ${message} que a ideia do ${target}, afirma Ciro em manifestação ao lado do MBL`,
+        `O nosso ${plano} ${message} que a ideia do ${target}, afirma Ciro em manifestação ao lado do MBL`,
         `${plano} é única alternativa para o país, afirma usuário do twitter com florzinha no nome 🌹`,
         `"${target} não fizeram ${plano} porque ${message}" afirma Ciro Gomes em palestra com ${reacionarios()}`
     ]
