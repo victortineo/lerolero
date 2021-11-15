@@ -12,7 +12,7 @@ const messageStyle = {
     plano: (target, message, plano) => [
         `O nosso ${plano} ${message} que a ideia do ${target}, afirma Ciro em manifestação ao lado do MBL`,
         `${plano} é única alternativa para o país, afirma usuário do twitter com florzinha no nome 🌹`,
-        `"${target} não fizeram ${plano} porque ${message}" afirma Ciro Gomes em palestra com ${reacionarios()}`
+        `"${target} não fez ${plano} porque ${message}" afirma Ciro Gomes em palestra com ${reacionarios()}`
     ]
 }
 
@@ -25,7 +25,7 @@ function getMessage(messageType) {
     const message = {
         teoria: [
             "o impeachment da Dilma",
-            "a corrupção de tudo que já aconteceu no país",
+            "toda a corrupção que já aconteceu no país",
             "o crescimento do fascismo",
             "excesso de identitarismo que impede o crescimento do país",
             "o negacionismo da política",
