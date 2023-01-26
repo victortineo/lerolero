@@ -17,7 +17,7 @@ const messageStyle = {
 }
 
 function conspiracao() {
-    const conspiracoes = ['conspirou', 'organizou', 'mutretou', 'possibilitou']
+    const conspiracoes = ['conspirou', 'organizou', 'possibilitou']
     return getRandom(conspiracoes)
 }
 
